@@ -1,0 +1,58 @@
+body {
+    margin-left: 30px;
+    width: 500px;
+    text-align: center;
+}
+#container {
+    color: aliceblue;
+    font-family: Helvetica;
+    display: block;
+    background-color: rgb(126, 60, 201);
+    text-align: center;
+    background-size: cover;
+    font-weight: bold;
+    padding: 20px;
+    font-size: 20px;
+    
+}
+
+#input-el {
+    background-color: rgb(126, 60, 201);
+    color: aliceblue;
+    border: 2px solid aliceblue;
+    border-radius: 10px;
+    display: block;
+    text-align: center;
+    margin: 0px auto;
+    font-weight: bold;
+    font-size: 40px;
+    padding: 5px;
+    width: 40%;
+    
+}
+
+#convert-btn {
+    padding: 8px 12px;
+    color:rgb(126, 60, 201);
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Helvetica, sans-serif;
+    margin: 10px auto;
+    border-radius: 8px;
+    border: none;
+}
+#results{
+    background: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+    padding: 5px;
+}
+.section {
+    background: white;
+    border-radius: 6px;
+    border: none;
+    font-family: Helvetica;
+    padding: 5px 10px;
+    font-size: 16px;
+    margin:12px;
+}

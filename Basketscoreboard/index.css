@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    background-color: #0C4A6E;
+     ;
+}
+
+h3 {
+    font-size: 30px;
+    font-style: helvetic;
+    color: antiquewhite;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    padding: 5px;
+    border: 1px solid antiquewhite;
+    border-radius: 4px;
+    background-color: #0C4A6E;
+    color: antiquewhite;
+}
+
+h2{
+    background-color: #111827;
+    color: #E11D48;
+    display: block;
+    text-align: center;
+    font-size: 40px;
+}
